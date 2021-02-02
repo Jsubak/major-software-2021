@@ -24,7 +24,7 @@
     position: absolute;
     background-color: var(--blue);
     border-radius: 50%;
-    top: 150px;
+    top: 120px;
   }
   .circle2 {
     width: 440px;
@@ -42,9 +42,11 @@
     position: absolute;
     background-color: var(--blue);
     border-radius: 50%;
-    width: 440px;
-    height: 440px;
-    opacity: 0.2;
+    width: 90px;
+    height: 90px;
+    opacity: 0.7;
+    bottom: -140px;
+    right: 80px;
   }
   .title {
     text-align: center;
