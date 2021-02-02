@@ -334,6 +334,7 @@
 
   /* 우리가 일하는 방식 */
   .way {
+    position: relative;
   }
 
   .way_emogji {
